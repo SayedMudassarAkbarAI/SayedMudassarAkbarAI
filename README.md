@@ -1,139 +1,183 @@
-<div align="center">
+::: {align="center"}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sayed%20Mudassar%20Akbar&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Software%20Solutions&descAlignY=60&descColor=ffffff">{=html}
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=210&section=header&text=Sayed%20Mudassar%20Akbar&fontSize=46&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descColor=ffffff"/>
+<h3>
 
-<a href="https://spmanchester.com/">
-<img src="https://img.shields.io/badge/SPManchester-Technology%20%26%20Creative%20Agency-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-<a href="mailto:mudassarakbara.i@gmail.com">
-<img src="https://img.shields.io/badge/Contact-Email-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=SayedMudassarAkbarAI&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+Founder. Builder. Technologist. Problem Solver.
 
-<br>
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Digital+Products+That+Create+Real+Impact;Full+Stack+Development+%7C+AI+%7C+Data+Science;Technology+%2B+Design+%2B+Strategy" alt="Typing Animation"/>
+<a href="https://spmanchester.com/">{=html}
+<img src="https://img.shields.io/badge/SPManchester-Founder%20%26%20CEO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff">{=html}
+</a>{=html} <a href="mailto:mudassarakbara.i@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335">{=html}
+</a>{=html}
+<a href="https://uk.linkedin.com/in/sayedmudassarakbar">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">{=html}
+</a>{=html}
+:::
 
-</div>
+👋 About Me
 
----
+I'm Sayed Mudassar Akbar, Founder & CEO of Service Provider
+Manchester (SPManchester) --- a UK-based technology and digital
+solutions company serving businesses across the UK and international
+markets.
 
-## 👋 About Me
+I work at the intersection of software engineering, AI, product
+development and digital transformation, building practical solutions
+that help businesses grow, automate and scale.
 
-I'm **Sayed Mudassar Akbar**, Founder & CEO of **SPManchester**, a UK-based technology and creative agency serving businesses across the **UK, USA and global markets**.
+Build partnerships, not just projects.
 
-I build and lead solutions across **software engineering, AI, data science, UI/UX and digital transformation** — helping businesses turn ideas into scalable digital products.
+🚀 What I Do
 
-> **Building partnerships, not just projects.**
+💻 Full Stack Web & Application Development
 
-### 🚀 What I Do
+🤖 AI, Machine Learning & Intelligent Automation
 
-* 💻 Web & Mobile Development
-* 🤖 AI, Machine Learning & Automation
-* 📊 Data Science & Analytics
-* 🎨 UI/UX & Product Design
-* 🛒 E-commerce Solutions
-* 📈 SEO & Digital Marketing
-* ☁️ Cloud & Software Solutions
-* 🧩 IT Consultancy & Digital Transformation
+📱 Web & Mobile Applications
 
----
+⚡ SaaS & Custom Software Solutions
 
-## 🏢 SPManchester
+🎨 UI/UX & Digital Product Design
 
-**SPManchester** is a technology & creative agency focused on building modern, scalable and result-driven digital solutions.
+🛒 eCommerce Development
 
-**20+ Professionals · 5+ Years Experience · 70+ Projects Worldwide**
+📈 SEO, Digital Marketing & Lead Generation
 
-🌐 **[spmanchester.com](https://spmanchester.com/)**
-📅 **[Book a Meeting](https://spmanchester.com/booking)**
+☁️ Cloud, Software Architecture & Digital Transformation
 
----
+🧩 IT Consulting & Project/Product Management
 
-## 🛠️ Tech Stack
+🏢 SPManchester
 
-### Languages
+Service Provider Manchester Private LTD is an IT Services & IT
+Consulting company headquartered in Hindley, England, founded in
+2023.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,cs,php,r"/>
-</p>
+Core services: Web Development · Mobile Apps · AI Solutions ·
+eCommerce · SEO · Graphic Design · Managed IT Support · Marketing
+Strategy · IT Consultancy
 
-### Frontend & Design
+🌐 Website: https://spmanchester.com/\
+📧 Business: info@spmanchester.com
+📧 Support: support@spmanchester.com
+💬 WhatsApp: +44 7388 509272
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,html,css,tailwind,bootstrap,figma"/>
-</p>
+🧑‍💻 Tech Stack
 
-### Backend
+Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,laravel,dotnet,graphql"/>
-</p>
+Python JavaScript TypeScript Java C++ C# PHP R
 
-### AI & Data
+Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
-</p>
+React Next.js Vue Angular HTML CSS Tailwind CSS
+Bootstrap
 
-`NumPy` · `Pandas` · `Scikit-learn` · `Jupyter` · `Anaconda`
+Backend & APIs
 
-### Databases & Cloud
+Node.js NestJS Django Laravel .NET GraphQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,aws,azure,gcp,docker,kubernetes,firebase,linux"/>
-</p>
+AI & Data
 
----
+Machine Learning Deep Learning TensorFlow PyTorch OpenCV
+NumPy Pandas Scikit-learn Jupyter Data Analytics Data Mining
 
-## 📊 GitHub Analytics
+Cloud & Infrastructure
 
-<div align="center">
+AWS Azure Google Cloud Docker Kubernetes Firebase Linux
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SayedMudassarAkbarAI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+Databases
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMudassarAkbarAI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
+MySQL PostgreSQL MongoDB
 
-<br><br>
+🤖 AI & Technology
 
-<img height="180" src="https://streak-stats.demolab.com?user=SayedMudassarAkbarAI&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff"/>
+I'm focused on building practical technology around:
 
-</div>
+Artificial Intelligence · Generative AI · Machine Learning · AI
+Automation · Intelligent Agents · Data Science · Cloud Computing ·
+Software Architecture · Digital Transformation
 
----
+My goal is simple: turn technology into useful business outcomes.
 
-## 🌐 Connect
+🎓 Education
 
-<div align="center">
+Lahore Leads University --- City Campus
+BS Software Engineering · 2022--2026
+GPA: 3.67 / 4.0
 
-<a href="https://spmanchester.com/">
-<img src="https://img.shields.io/badge/Website-SPManchester-00d4ff?style=for-the-badge"/>
-</a>
-<a href="mailto:mudassarakbara.i@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+Key areas include Software Engineering, OOP, Data Structures &
+Algorithms, Databases, Web & Mobile Development, Software Architecture,
+Data Mining, Information Security, Computer Networks, Project Management
+and Research Methodology.
 
-</div>
+🏅 Certifications & Learning
 
----
+Selected Google certifications listed on my professional profile
+include:
 
-## 🤝 Let's Build
+Build Interactive Apps with Google Assistant
 
-I'm open to **technology partnerships, AI projects, software products, startups and digital transformation initiatives**.
+Build and Optimize Data Warehouses with BigQuery
 
-📧 **[info@spmanchester.com](mailto:info@spmanchester.com)** · **[support@spmanchester.com](mailto:support@spmanchester.com)**
-🌐 **[SPManchester](https://spmanchester.com/)** · 📅 **[Book a Meeting](https://spmanchester.com/booking)**
+Build and Secure Networks in Google Cloud
 
-<div align="center">
+Create ML Models with BigQuery ML
 
-### ⭐ Build. Learn. Innovate. Scale.
+Continuous learning across AI, ML, GenAI, Software Engineering, Cloud
+Architecture and Digital Transformation.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+📌 Featured Project
 
-</div>
+Fit Out Solution
+
+A modern solution for a UK fit-out business built with:
+
+React 18 · TypeScript · Vite · Tailwind CSS · ShadCN UI
+
+Focused on responsive UX, performance and scalable frontend
+architecture, with later migration to WordPress based on client
+requirements.
+
+🧠 Engineering Philosophy
+
+Strategy → Design → Engineering → Automation → Growth
+
+I believe strong technology is not only about writing code --- it's
+about understanding the problem, designing the right product and
+creating measurable value.
+
+📊 GitHub
+
+::: {align="center"}
+<img src="https://github-readme-stats.vercel.app/api?username=SayedMudassarAkbarAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">{=html}
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMudassarAkbarAI&layout=compact&theme=tokyonight&hide_border=true" height="165">{=html}
+
+<br>{=html}
+
+<img src="https://streak-stats.demolab.com?user=SayedMudassarAkbarAI&theme=tokyonight&hide_border=true">{=html}
+:::
+
+📫 Connect
+
+🌐 SPManchester: https://spmanchester.com/
+
+💼 LinkedIn: https://uk.linkedin.com/in/sayedmudassarakbar
+
+📧 Personal: mudassarakbara.i@gmail.com
+
+📧 Business: info@spmanchester.com
+
+📧 Support: support@spmanchester.com
+
+::: {align="center"}
+
+⭐ Build. Learn. Innovate. Scale.
+
+Founder & CEO @ SPManchester · Full Stack Developer · AI & Software
+Solutions
+:::
