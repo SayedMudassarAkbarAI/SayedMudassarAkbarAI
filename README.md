@@ -27,7 +27,7 @@ I work across **software engineering, web & mobile development, AI solutions, Sa
 **Website:** https://spmanchester.com/
 **Email:** [info@spmanchester.com](mailto:info@spmanchester.com)
 **Support:** [support@spmanchester.com](mailto:support@spmanchester.com)
-**WhatsApp:** +44 7388 509272
+**WhatsApp:** +92 306 4350580
 
 > **Build partnerships, not just projects.**
 
