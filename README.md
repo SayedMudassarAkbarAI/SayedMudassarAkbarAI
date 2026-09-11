@@ -1,183 +1,152 @@
-::: {align="center"}
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sayed%20Mudassar%20Akbar&fontSize=48&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Founder%20%26%20CEO%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20%26%20Software%20Solutions&descAlignY=60&descColor=ffffff">{=html}
+# Sayed Mudassar Akbar
 
-<h3>
+**Founder & CEO @ SPManchester | AI & Software Solutions Leader | Full Stack Developer | Web, Mobile & Digital Solutions Specialist**
 
-Founder. Builder. Technologist. Problem Solver.
+I’m **Sayed Mudassar Akbar**, Founder & CEO of **Service Provider Manchester (SPManchester)**, a UK-based technology and digital solutions company serving businesses across the UK and international markets.
 
-</h3>
+I work across **software engineering, web & mobile development, AI solutions, SaaS, eCommerce, UI/UX, SEO, digital marketing and business automation**, combining technical execution with product strategy and digital transformation.
 
-<a href="https://spmanchester.com/">{=html}
-<img src="https://img.shields.io/badge/SPManchester-Founder%20%26%20CEO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff">{=html}
-</a>{=html} <a href="mailto:mudassarakbara.i@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-Contact%20Me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335">{=html}
-</a>{=html}
-<a href="https://uk.linkedin.com/in/sayedmudassarakbar">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">{=html}
-</a>{=html}
-:::
+## 🚀 Professional Focus
 
-👋 About Me
+* Founder & CEO — Service Provider Manchester
+* Full Stack Web & Application Development
+* AI, Automation & Intelligent Software Solutions
+* SaaS & Custom Software Development
+* Web & Mobile Application Development
+* eCommerce Development
+* UI/UX & Digital Product Design
+* SEO & Digital Marketing
+* Lead Generation & Growth Solutions
+* IT Consulting & Digital Transformation
+* Project & Product Management
 
-I'm Sayed Mudassar Akbar, Founder & CEO of Service Provider
-Manchester (SPManchester) --- a UK-based technology and digital
-solutions company serving businesses across the UK and international
-markets.
+## 🏢 SPManchester
 
-I work at the intersection of software engineering, AI, product
-development and digital transformation, building practical solutions
-that help businesses grow, automate and scale.
+**Service Provider Manchester Private LTD** is an IT Services & IT Consulting company headquartered in **Hindley, England**, founded in 2023, with a team size listed on LinkedIn as **11–50 employees**. Its specialties include Web Development, Marketing Strategy, Graphic Design, Managed IT Support, SEO, Mobile Apps, eCommerce, AI and IT Consultancy.
 
-Build partnerships, not just projects.
+**Website:** https://spmanchester.com/
+**Email:** [info@spmanchester.com](mailto:info@spmanchester.com)
+**Support:** [support@spmanchester.com](mailto:support@spmanchester.com)
+**WhatsApp:** +44 7388 509272
 
-🚀 What I Do
+> **Build partnerships, not just projects.**
 
-💻 Full Stack Web & Application Development
+## 💻 Technical Areas
 
-🤖 AI, Machine Learning & Intelligent Automation
+**Languages:**
+Python · JavaScript · TypeScript · Java · C++ · C# · PHP · R
 
-📱 Web & Mobile Applications
+**Frontend:**
+React · Next.js · Vue · Angular · HTML · CSS · Tailwind CSS · Bootstrap
 
-⚡ SaaS & Custom Software Solutions
+**Backend & APIs:**
+Node.js · NestJS · Django · Laravel · .NET · GraphQL
 
-🎨 UI/UX & Digital Product Design
+**AI & Data:**
+Python · Machine Learning · Deep Learning · TensorFlow · PyTorch · OpenCV · NumPy · Pandas · Scikit-learn · Jupyter · Data Analytics · Data Mining
 
-🛒 eCommerce Development
+**Cloud & Infrastructure:**
+AWS · Microsoft Azure · Google Cloud · Docker · Kubernetes · Firebase · Linux
 
-📈 SEO, Digital Marketing & Lead Generation
+**Databases:**
+MySQL · PostgreSQL · MongoDB
 
-☁️ Cloud, Software Architecture & Digital Transformation
+## 🤖 AI & Technology
 
-🧩 IT Consulting & Project/Product Management
+My professional interests include:
 
-🏢 SPManchester
+* Artificial Intelligence
+* Generative AI
+* Machine Learning
+* AI Automation
+* Intelligent Agents & Workflows
+* Data Science & Analytics
+* Software Architecture
+* Cloud Computing
+* Digital Transformation
+* Emerging Technology
 
-Service Provider Manchester Private LTD is an IT Services & IT
-Consulting company headquartered in Hindley, England, founded in
-2023.
+I’m particularly interested in building practical AI-powered systems that solve real business problems rather than technology for technology’s sake.
 
-Core services: Web Development · Mobile Apps · AI Solutions ·
-eCommerce · SEO · Graphic Design · Managed IT Support · Marketing
-Strategy · IT Consultancy
+## 🎓 Education
 
-🌐 Website: https://spmanchester.com/\
-📧 Business: info@spmanchester.com
-📧 Support: support@spmanchester.com
-💬 WhatsApp: +44 7388 509272
+**Lahore Leads University — City Campus**
+**Bachelor of Science in Software Engineering**
+2022–2026 · GPA: **3.67/4.0**
 
-🧑‍💻 Tech Stack
+Academic focus includes:
 
-Languages
+* Software Engineering
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Databases
+* Web & Mobile Development
+* Software Architecture
+* Data Mining
+* Information Security
+* Computer Networks
+* Project Management
+* Research Methodology
 
-Python JavaScript TypeScript Java C++ C# PHP R
+## 🏅 Certifications & Learning
 
-Frontend
+Selected certifications listed on LinkedIn include Google certifications in:
 
-React Next.js Vue Angular HTML CSS Tailwind CSS
-Bootstrap
+* Build Interactive Apps with Google Assistant
+* Build and Optimize Data Warehouses with BigQuery
+* Build and Secure Networks in Google Cloud
+* Create ML Models with BigQuery ML
 
-Backend & APIs
+I have also pursued professional learning and training across technology, cloud, software development, AI and digital solutions.
 
-Node.js NestJS Django Laravel .NET GraphQL
+## 🌍 Languages
 
-AI & Data
+* **Urdu** — Native / Bilingual
+* **Punjabi** — Professional Working Proficiency
+* **English** — Limited Working Proficiency
 
-Machine Learning Deep Learning TensorFlow PyTorch OpenCV
-NumPy Pandas Scikit-learn Jupyter Data Analytics Data Mining
+## 📌 Selected Project
 
-Cloud & Infrastructure
+### Fit Out Solution
 
-AWS Azure Google Cloud Docker Kubernetes Firebase Linux
+A modern project developed for a UK fit-out business using:
 
-Databases
+**React 18 · TypeScript · Vite · Tailwind CSS · ShadCN UI**
 
-MySQL PostgreSQL MongoDB
+The project focused on performance, responsive design, scalable architecture and a modern user experience. It was later migrated to WordPress according to the client's requirements, demonstrating flexibility in selecting the right technology for the business.
 
-🤖 AI & Technology
+## 🧠 My Approach
 
-I'm focused on building practical technology around:
+I believe technology should create measurable business value.
 
-Artificial Intelligence · Generative AI · Machine Learning · AI
-Automation · Intelligent Agents · Data Science · Cloud Computing ·
-Software Architecture · Digital Transformation
+My approach combines:
 
-My goal is simple: turn technology into useful business outcomes.
+**Strategy → Design → Engineering → Automation → Growth**
 
-🎓 Education
+Rather than simply delivering websites or software, I focus on building digital products and systems that help businesses improve their presence, efficiency and scalability.
 
-Lahore Leads University --- City Campus
-BS Software Engineering · 2022--2026
-GPA: 3.67 / 4.0
+## ⭐ Professional Philosophy
 
-Key areas include Software Engineering, OOP, Data Structures &
-Algorithms, Databases, Web & Mobile Development, Software Architecture,
-Data Mining, Information Security, Computer Networks, Project Management
-and Research Methodology.
+> **Build partnerships, not just projects.**
 
-🏅 Certifications & Learning
+I’m interested in collaborating with founders, startups, established businesses and technology teams that want to build, modernize or scale their digital products.
 
-Selected Google certifications listed on my professional profile
-include:
+## 📬 Contact
 
-Build Interactive Apps with Google Assistant
+**Personal:**
+📧 [mudassarakbara.i@gmail.com](mailto:mudassarakbara.i@gmail.com)
 
-Build and Optimize Data Warehouses with BigQuery
+**SPManchester:**
+📧 [info@spmanchester.com](mailto:info@spmanchester.com)
+📧 [support@spmanchester.com](mailto:support@spmanchester.com)
 
-Build and Secure Networks in Google Cloud
+🌐 https://spmanchester.com/
+💼 https://uk.linkedin.com/in/sayedmudassarakbar
 
-Create ML Models with BigQuery ML
+---
 
-Continuous learning across AI, ML, GenAI, Software Engineering, Cloud
-Architecture and Digital Transformation.
+### Core Identity
 
-📌 Featured Project
+**Founder. Builder. Technologist. Problem Solver.**
 
-Fit Out Solution
-
-A modern solution for a UK fit-out business built with:
-
-React 18 · TypeScript · Vite · Tailwind CSS · ShadCN UI
-
-Focused on responsive UX, performance and scalable frontend
-architecture, with later migration to WordPress based on client
-requirements.
-
-🧠 Engineering Philosophy
-
-Strategy → Design → Engineering → Automation → Growth
-
-I believe strong technology is not only about writing code --- it's
-about understanding the problem, designing the right product and
-creating measurable value.
-
-📊 GitHub
-
-::: {align="center"}
-<img src="https://github-readme-stats.vercel.app/api?username=SayedMudassarAkbarAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165">{=html}
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayedMudassarAkbarAI&layout=compact&theme=tokyonight&hide_border=true" height="165">{=html}
-
-<br>{=html}
-
-<img src="https://streak-stats.demolab.com?user=SayedMudassarAkbarAI&theme=tokyonight&hide_border=true">{=html}
-:::
-
-📫 Connect
-
-🌐 SPManchester: https://spmanchester.com/
-
-💼 LinkedIn: https://uk.linkedin.com/in/sayedmudassarakbar
-
-📧 Personal: mudassarakbara.i@gmail.com
-
-📧 Business: info@spmanchester.com
-
-📧 Support: support@spmanchester.com
-
-::: {align="center"}
-
-⭐ Build. Learn. Innovate. Scale.
-
-Founder & CEO @ SPManchester · Full Stack Developer · AI & Software
-Solutions
-:::
+Building software, AI solutions and digital products designed for the real world.
